@@ -26,10 +26,8 @@ Deep Learning	PyTorch
 Voice Recognition	SpeechRecognition
 Image Processing	PIL (Python Imaging Library)
 📦 Installation
-1️⃣ Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-
+1️⃣ Download
+download the zip and open in vs code
 2️⃣ Install Dependencies
 pip install -r requirements.txt
 
