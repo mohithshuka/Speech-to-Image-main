@@ -47,6 +47,9 @@ Then open the URL shown in the terminal, usually:
 
 http://localhost:8501
 
+Want to see the deploye code just click on this
+https://speech-to-image-main-yhtz7uwten7ru7twx9e8wb.streamlit.app
+
 🧪 How It Works
 
 Enter a prompt or click Recognize Speech to speak
