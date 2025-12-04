@@ -26,5 +26,14 @@
 - Streamlit
 - Speech Recognition libraries
 
+To Run Speech-to-Image Generation
+- open Speech-to-Image main
+- then open abc
+- run abc
+- streamlit run abc.py
+
+The deploy code is here Click on this and see  https://speech-to-image-main-jtwsxafoptajeo6wtt2ngv.streamlit.app
+
+
 ### 🤝 Contributions
 Contributions are welcome! Fork the repository, enhance it, and submit a pull request.
