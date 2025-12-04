@@ -6,7 +6,7 @@ import speech_recognition as sr
 
 # Streamlit UI
 st.title("Speech/Text to Image Generator")
-st.markdown("### Powered by Stable Diffusion & Speech Recognition")
+st.markdown("Image Generator")
 st.caption("Created by Mohith Shuka")
 
 # Speech recognition using audio upload
