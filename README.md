@@ -50,6 +50,17 @@ http://localhost:8501
 Want to see the deploye code just click on this
 https://speech-to-image-main-yhtz7uwten7ru7twx9e8wb.streamlit.app
 
+
+⚠️ Very Important Clarification
+Where you run app	Microphone works?	Why
+Your laptop (local Streamlit)	✔ YES	Uses your PC mic
+Streamlit Cloud (online deploy)	❌ NO	Cloud has no microphone hardware
+
+So:
+
+✔ I can give you microphone-direct version for local PC
+❌ That version will fail if you deploy online
+
 🧪 How It Works
 
 Enter a prompt or click Recognize Speech to speak
